@@ -32,6 +32,8 @@ languages that talk to each other over gRPC.
 
 [![Architecture of
 microservices](/docs/img/architecture-diagram.png)](/docs/img/architecture-diagram.png)
+![ci-cd](https://github.com/Saifweb/MicroservicesApp/assets/98279240/c3b868eb-8d3f-47b1-aaa7-eda8eb42c338)
+
 
 Find **Protocol Buffers Descriptions** at the [`./protos` directory](/protos).
 
